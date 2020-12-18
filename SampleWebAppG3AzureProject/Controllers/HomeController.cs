@@ -22,7 +22,7 @@ namespace SampleWebAppG3AzureProject.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "My Contact information.";
 
             return View();
         }
